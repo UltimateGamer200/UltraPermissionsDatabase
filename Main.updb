@@ -3771,3 +3771,20 @@ ItemFrameShops+ifs.command.removeshopinselection+Removes every shop in your Worl
 ItemFrameShops+ ifs.command.recalcshopsinselection+Recalculates prices for every shop in your WorldEdit selection.
 ItemFrameShops+ifs.command.sellall+Sells your entire inventory at IFS calculated prices.
 ItemFrameShops+ifs.command.sellhand+Sells the item in your hand using a price calculated by IFS.
+KP-PVP+kitpvp.kitclear+Clears your kit and return to the kitpvp spawn.
+KP-PVP+kitpvp.admin+Tries to dowload the last version of the plugin if have any disponible.
+KP-PVP+kitpvp.skit+Creates a kit with items in your inventory or applies the kit to the players in a range+/skit create (kitname),/skit apply (kitname) (range)
+KP-PVP+kitpvp.staffchat+A Custom Staff Chat to you talk with your staff+/ksc
+KP-PVP+kitpvp.setspawn+Set the kitpvp spawn+/kpsetspawn
+KP-PVP+kitpvp.set1v1+Set the 1v1 spawn and players positions+/set1v1 spawn,loc1,loc2
+KP-PVP+kitpvp.coins.add+Give players coins+/coins add <nick> <amount>
+KP-PVP+kitpvp.coins.remove+Remove players coins+/coins remove <nick> <amount>
+KP-PVP+kitpvp.coins.set+Set players coins to a determined amount+/coins set <nick> <amount>
+KP-PVP+kitpvp.givekills+Give/Remove Player kills+/kpkills give <Player> <Amount>,/kpkills remove <Player> <Amount>
+KP-PVP+kitpvp.adminmode+Enter in admin mode to catch hackers+/adminmode
+KP-PVP+kitpvp.kitreload+Reloads the configuration file+/kitreload
+KP-PVP+kitpvp.build+Allow to build while in game.
+KP-PVP+kitpvp.createsigns+Allow to create join,leave or soup signs.
+KP-PVP+kitpvp.stats.see.other+Allow to see other player stats.
+KP-PVP+kitpvp.kit.*+Allow you to use all kits.
+KP-PVP+kitpvp.unblockedcmds+Allows you to use blocked cmds while in kitpvp.
